@@ -1,0 +1,18 @@
+{
+  "name": "mongodb-js-storybook",
+  "description": "mongodb-js storybook helpers and things",
+  "version": "0.0.0",
+  "scripts": {
+  },
+  "homepage": "http://github.com/imlucas/mongodb-js-storybook",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/imlucas/mongodb-js-storybook.git"
+  },
+  "bugs": {
+    "url": "git://github.com/imlucas/mongodb-js-storybook.git/issues"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "license": "Apache-2.0"
+}
